@@ -1,0 +1,1 @@
+ML engineer with Python, pandas, scikit-learn, REST APIs, and Docker experience. Built classification models and monitored model drift.
