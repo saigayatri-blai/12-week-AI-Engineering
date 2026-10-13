@@ -1,1 +1,0 @@
-AI Engineer: Python, LLM API integration, prompt engineering, structured outputs, FastAPI, Docker, evaluation, and cloud deployment.
