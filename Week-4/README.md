@@ -19,8 +19,8 @@ Week 4 follows one fictional business scenario: an internal HR knowledge assista
 Use Python 3.10 or newer. Each project is self-contained and has its own requirements file.
 
 ```bash
-git clone https://github.com/saigayatri-blai/12-week-AI-Engineering.git
-cd 12-week-AI-Engineering/Week-4
+git clone https://github.com/saigayatri-blai/24-week-AI-Engineering.git
+cd 24-week-AI-Engineering/Week-4
 
 python3 -m venv .venv
 source .venv/bin/activate  # Windows: .venv\Scripts\activate
